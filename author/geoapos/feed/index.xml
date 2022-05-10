@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Uncategorized &#8211; Dot Geek</title>
-	<atom:link href="https://georgeapos.github.io/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<title>geoapos &#8211; Dot Geek</title>
+	<atom:link href="https://georgeapos.github.io/author/geoapos/feed/" rel="self" type="application/rss+xml" />
 	<link>https://georgeapos.github.io</link>
 	<description>Aκόμα ένα tech blog</description>
 	<lastBuildDate>Tue, 10 May 2022 20:06:14 +0000</lastBuildDate>

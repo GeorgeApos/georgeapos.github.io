@@ -12,7 +12,7 @@
 	<atom:link href="https://georgeapos.github.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://georgeapos.github.io</link>
 	<description>Aκόμα ένα tech blog</description>
-	<lastBuildDate>Fri, 15 Apr 2016 21:25:56 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 10 May 2022 20:06:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,251 +20,133 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.9.3</generator>
 	<item>
-		<title>Torquent per conubia nostra</title>
-		<link>https://georgeapos.github.io/2016/04/15/torquent-per-conubia-nostra/</link>
-					<comments>https://georgeapos.github.io/2016/04/15/torquent-per-conubia-nostra/#comments</comments>
+		<title>Συμβουλές για το Git που θα ήθελα να γνωρίζω από το πρώτο έτος</title>
+		<link>https://georgeapos.github.io/2022/05/10/%cf%83%cf%85%ce%bc%ce%b2%ce%bf%cf%85%ce%bb%ce%ad%cf%82-%ce%b3%ce%b9%ce%b1-%cf%84%ce%bf-git-%cf%80%ce%bf%cf%85-%ce%b8%ce%b1-%ce%ae%ce%b8%ce%b5%ce%bb%ce%b1-%ce%bd%ce%b1-%ce%b3%ce%bd%cf%89%cf%81%ce%af/</link>
+					<comments>https://georgeapos.github.io/2022/05/10/%cf%83%cf%85%ce%bc%ce%b2%ce%bf%cf%85%ce%bb%ce%ad%cf%82-%ce%b3%ce%b9%ce%b1-%cf%84%ce%bf-git-%cf%80%ce%bf%cf%85-%ce%b8%ce%b1-%ce%ae%ce%b8%ce%b5%ce%bb%ce%b1-%ce%bd%ce%b1-%ce%b3%ce%bd%cf%89%cf%81%ce%af/#respond</comments>
 		
 		<dc:creator><![CDATA[geoapos]]></dc:creator>
-		<pubDate>Fri, 15 Apr 2016 21:25:56 +0000</pubDate>
-				<category><![CDATA[Adventure]]></category>
-		<guid isPermaLink="false">https://oceanwp.org/travel/interdum-magna-augue-eget-copy/</guid>
+		<pubDate>Tue, 10 May 2022 20:02:31 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://georgeapos.github.io/?p=448</guid>
 
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
-<p>Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh.</p>
-<p>Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam, a cursus ipsum ante quis turpis. Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet. Vestibulum sapien. Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus. Integer euismod lacus luctus magna.</p>
-<h3>Vestibulum lacinia arcu</h3>
-<p>Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum. Morbi in ipsum sit amet pede facilisis laoreet. Donec lacus nunc, viverra nec, blandit vel, egestas et, augue. Vestibulum tincidunt malesuada tellus. Ut ultrices ultrices enim. Curabitur sit amet mauris. Morbi in dui quis est pulvinar ullamcorper. Nulla facilisi.</p>
-<blockquote><p>Integer lacinia sollicitudin massa. Cras metus. Sed aliquet risus a tortor. Integer id quam. Morbi mi. Quisque nisl felis, venenatis tristique, dignissim in, ultrices sit amet, augue. Proin sodales libero eget ante.</p></blockquote>
-<p>Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.</p>
+					<description><![CDATA[Καλησπέρα, καλώς ήρθατε στο σημερινό πρώτο μάθημα για το Git – Github – Gitlab. Θα κάνουμε μία εισαγωγή στο Git, τι ακριβώς είναι, πως χρησιμοποιείται. Αρχικά θα ασχοληθούμε με το terminal και στη συνέχεια με γραφικά περιβάλλοντα όπως είναι το GitKraken ή το Github Desktop.&#160; Ξεκινώντας, το Git αποτελεί ένα software για να κρατάμε εκδόσεις [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Καλησπέρα, καλώς ήρθατε στο σημερινό πρώτο μάθημα για το Git – Github – Gitlab. Θα κάνουμε μία εισαγωγή στο Git, τι ακριβώς είναι, πως χρησιμοποιείται. Αρχικά θα ασχοληθούμε με το terminal και στη συνέχεια με γραφικά περιβάλλοντα όπως είναι το GitKraken ή το Github Desktop.&nbsp;</p>
+
+
+
+<p>Ξεκινώντας, το Git αποτελεί ένα software για να κρατάμε εκδόσεις αρχείων. Κατά 99,9% χρησιμοποιείται για κώδικα και η βασική λογική πίσω από αυτό είναι ότι κρατάει snapshots του κώδικα κατά τη διάρκεια του χρόνου μέσα στα λεγόμενα Repositories. Το καλό με αυτά είναι ότι μπορούμε να δούμε την ιστορία του κώδικα μας, ποιος έχει κάνει αλλαγές, πότε και που. Ακόμα, σε περίπτωση που έχουμε βρεθεί σε κάποιο μεγάλο bug που επηρεάζει το production μπορούμε κάλλιστα να γυρίσουμε πίσω σε προηγούμενο version χωρίς να έχουμε κάποιο πρόβλημα. Χωρίς αυτό, θα έπρεπε να αποθηκεύουμε το project μας σε φακέλους κάθε φορά που τελειώναμε κάποιο session. Αυτό όπως καταλαβαίνουμε δεν είναι πρακτικό, και είναι πάρα πολύ αργό ειδικά όταν στο ίδιο project πρέπει να ασχολούνται περισσότερο από ένα άτομα. Υπάρχουν 2 κατηγορίες Version Control System, Centralized και Distributed. Στο πρώτο, όλοι μπαίνουν στον κεντρικό σέρβερ για να έχουν την τελευταία version του project. Μερικά παραδείγματα αποτελούν το Subversion και το Team Foundation Server. Το πρόβλημα είναι ότι αν ο σερβερ πέσει, δεν μπορούμε να κάνουμε καμία αλλαγή η να αλληλεπιδράσουμε&nbsp; όσο είναι κάτω. Στο δεύτερο, το κάθε μέλος της ομάδας έχει ένα copy από το project στη δικιά του μηχανή και κάνει αλλαγές τοπικά. Αν ο κεντρικός σέρβερ πέσει μπορούμε να συχρονίσουμε τη δουλειά μας απευθείας με άλλα άτομα της ομάδας. Τέτοιο παράδειγμα αποτελεί το Git που θα δούμε σήμερα, και το Mercurial. Γιατί όμως χρησιμοποιεί όλος ο πλανήτης το git? Είναι δωρεάν, είναι open source, είναι εξαιρετικά γρήγορο και scalable. Αποτελεί ένα από τα βασικά requirements για οποιαδήποτε Software Engineering δουλειά, γιατί ακριβώς πάρα πολλές εταιρείες το χρησιμοποιούν.&nbsp;</p>
+
+
+
+<p>Αρκετά όμως με τα θεωρητικά, πάμε να δούμε πρακτικά κάποια βασικά πράγματα για το Git. Θα ξεκινήσουμε όπως αναφέρθηκα και νωρίτερα με το terminal. Πρέπει αρχικά, να εγκαταστήσουμε το git στις μηχανές μας. Στα mac ο πιο εύκολος τρόπος να το εγκαταστήσουμε είναι μέσω Command Line Tools η το Xcode, σε linux γράφουμε sudo apt-get install git, yum και zypper ανάλογα το λειτουργικό σύστημα που χρησιμοποιούμε. Συγκεκριμένα στο δικό μου μηχάνημα με openSUSE-Tumbleweed θα γράψω sudo zypper install git. Αν βρισκόμαστε σε windows μπαίνουμε στη σελίδα <a href="https://gitforwindows.org/">https://gitforwindows.org/</a> κατεβάζουμε το installation και το τρέχουμε.</p>
+
+
+
+<p>Δημιουργούμε τον φάκελο που θέλουμε για το project μας, και είτε σε terminal μέσω του VSCode είτε μέσω του φακέλου η πρώτη κίνηση που θα κάνουμε είναι το git init, δηλαδή θα κάνουμε initialize τον φκελο αυτό σαν ένα Git Repository, βάζοντας αυτόματα στον φάκελο μας έναν φάκελο .git και παρακολουθώντας τον φάκελο για τυχών αλλαγές. Ας φτιάξουμε λοιπόν 2 αρχεία , ας πούμε index.html και style.css (touch index.html, touch style.css). Γράφοντας το git status θα μας δείξει ότι έχουμε 2 αρχεία στο repository μας τα οποία είναι Untracked, δηλαδή δεν έχουμε πει στο git τι να κάνει με αυτά τα αρχεία. Πρέπει λοιπόν να κάνουμε git add . Και αν ξαναγράψουμε git status θα δούμε ότι πλέον προστέθηκαν και είναι Staged. Η . δείχνει ότι επιλέγουμε όλα τα αρχεία από το τωρινό μας directory που είναι έτοιμα να προστεθούν. Αν θέλουμε κάποιο συγκεκριμένο αρχείο να κάνουμε add η εντολή είναι αυτή git add [file]. Το Staged σημαίνει λοιπόν ότι εμείς θέλουμε να στείλουμε τα αρχεία αυτά στο git, ωστόσο δεν έχει γίνει ακόμα η αποστολή. Για να γίνει λοιπόν η αποστολή αυτή πρέπει να γράψουμε την εντολή git commit -m “Initial Commit” με οποιοδήποτε μήνυμα θέλετε εσείς, συνήθως βάζουμε αυτό. Θα μας βγάλει λοιπόν αποτέλεσμα ότι δεν έχουμε ποιοί είμαστε, οπότε πρέπει να του δώσουμε ένα email και ένα username. Git config user.email “email” και git config user.name “username”. Πλέον είμαστε έτοιμοι να κάνουμε commit με το προηγουμενο command.&nbsp;</p>
+
+
+
+<p>Έστω λοιπόν ότι τώρα θέλουμε να κάνουμε μία αλλαγή. Αν πάμε και γράψουμε το git status θα δούμε ότι το αρχείο μας είναι labeled σαν modified. Μπορούμε να πατήσουμε git diff [file] για να δούμε ποιές είναι οι αλλαγές που έγιναν. Τώρα θέλουμε αυτές οι αλλαγές να αποθηκευτούν στο βασικό μας repository. Για να το αποθηκεύσουμε λοιπόν πρέπει να κάνουμε git add index.html και git commit -m “Added new Line”. Έστω ότι κάνουμε δεύτερη αλλαγή και είναι λανθασμένη. Αν θέλουμε να γυρίσουμε πίσω σε προηγούμενη κατάσταση, γράφουμε git checkout [file].</p>
+
+
+
+<p>&nbsp;Ένα από τα ποιο σημαντικά πράγματα στο git είναι τα branches. Ο λόγος που χρησιμοποιούμε branches ειδικά αν δουλεύουμε σε ομάδα είναι επειδή θέλουμε να μη δουλέψουμε στο κώδικα που δουλεύουν οι υπόλοιποι, να απομονοθούμε, να κάνουμε ότι είναι να κάνουμε, και όταν σιγουρευτούμε για το αποτέλεσμα να το στείλουμε στο κεντρικό branch. Εδώ που βρισκόμαστε, θα κάνουμε git checkout -b dev (το όνομα του καινούργιου branch). Τώρα μπορούμε να κάνουμε αλλαγές στο αρχείο και να το δούμε και το προσθέτουμε στο repository με το git status.&nbsp; Έστω λοιπόν ότι αυτή η αλλαγή είναι σωστή και θέλουμε να τη στείλουμε στο κεντρικό master branch. Git checkour master και git merge dev και βλέπουμε ότι η αλλαγή που κάναμε στο dev ήρθε στο master branch.</p>
+
+
+
+<p>Κάνουμε καινούργιο commit αφού κάνουμε αλλαγές που θεωρητικά είναι λάθος. Git add . , git commit -m “addeddd new”. Τώρα, αν θέλουμε να διορθώσουμε το commit, git commit &#8211;amend και πλέον ανοίγει ένας editor, διορθώνουμε το λάθος και το σώζουμε.</p>
+
+
+
+<p>Τώρα, ας πούμε ότι θέλουμε να δημιουργήσουμε ένα νέο αρχείο script.js (touch script.js). Αν δούμε στο στάτους, θα μας πεί ότι είναι untracked, και όταν το προσθέσουμε βλέπουμε ότι λέει staged. Για κάποιο λόγο, δεν θέλαμε να γίνει staged, το βγάζουμε παντώντας git rm –cached script.js. Και στο status θα λέει πάλι untracked.&nbsp;</p>
+
+
+
+<p>Ένα από τα σημαντικότερα πράγματα στο git, και κάτι που άργησα πάρα πολύ να το μάθω και είχα θέμα, είναι το git ignore. Υπάρχουν κάποια project που χρησιμοποιούν αρχεία τα οποία εμείς δεν θέλουμε να φαίνονται παραέξω. Μερικά παραδείγματα είναι api tokens, πχ στο MongoDB η ακόμα και για ένα Discord Bot χρειάζεται να γραφτεί μέσα σε ένα αρχείο πχ Javascript ένα μοναδικό token. Αν δοκιμάσετε να στείλετε στο git αυτό το token, τότε θα σας έρθει email είτε από το API είτε από το Github ότι κάποιο token είναι exposed. Για να μην δείξουμε λοιπόν το αρχείο που περιέχει τέτοιου είδους δεδομένα (πχ .env files), δημουργούμε ένα αρχείο με ονομασία .gitignore. Μέσα εδώ&nbsp; θα γράψουμε την ονομασία του αρχείου που δεν θέλουμε να φαίνεται. Στη συνέχεια κάνουμε commit και βλέπουμε ότι δεν είναι tracked το .env και δεν μας το ζητάει στη συνέχεια.&nbsp;</p>
+
+
+
+<p>Στη συνέχεια, θα δούμε το tag. Αυτό το κάνουμε για να πάρουμε ένα συγκεκριμένο snapshot του κώδικα και να του δώσουμε ένα όνομα, κάθε φορά που κάνουμε deploy, η σε κάθε release. Git tag v0.0.1 και git tag.</p>
+
+
+
+<p>Καλά λοιπόν όλα αυτά, αλλά πρέπει να θυμόμαστε ότι το Git είναι για ομάδες. Πρέπει με κάποιο τρόπο να μοιράσουμε το κώδικα στους υπόλοιπους προγραμματιστές της ομάδας. Πάμε λοιπόν στο github και φτιάχνουμε το repository. Ένα πολύ καλό πράγμα είναι ότι βοηθάει το github αλλα πρέπει να κατεβάσουμε και εμείς 2 πραγματάκια ακόμα γράφοντας στο terminal sudo apt-get install ca-cerificates ssh-client. Επιλέγουμε το remote add origin, και το βαζουμε στο τερμιναλ, οπότε πλέον οποιαδήποτε αλλαγή κάνουμε θα ανεβαίνει σε αυτό το repository. Και τώρα θεωρητικά θα μπορούμε να κάνουμε git push -u origin master. Ωστόσο θα δούμε ένα access deny. Αυτό που πρέπει να κάνουμε είναι να φτιάξουμε ένα ssh key, pair, ενα secret και ένα public, ένα για εμάς και ενα για το Github. Για να γίνει αυτό κάνουμε ssh-keygen -t rsa -b 4096 -C “email”. Δεν βάζουμε κάτι από αυτά. Πάμε λοιπόν να βρούμε το public key. Με την εντόλη cat [path] το βλέπουμε, το αντιγράφουμε και το βάζουμε στο account μας, settings, ssh και gpg keys, και θα πατήσουμε new ssh key, paste και δίνουμε όνομα. Τώρα αμα κάνουμε push θα το δεχτεί κανονικά.&nbsp;</p>
+
+
+
+<p>Πάμε να δούμε τώρα το pull origin master για να πάρουμε τις αλλαγές που έχουν κάνει άλλοι προγραμματιστές. Ακόμα, μπορούμε να κάνουμε push και το tag που λέγαμε προηγουμένως, git push origin tag v0.0.1. Git fetch origin –prune 🡪 κατεβάζει όλα τα branches που μπορουν να υπάρχουν στο remote και σβήνει όλα αυτά που έσβησαν και οι άλλοι προγραμματιστές, παρόλο που χρησιμοποιούμε το fetch πρέπει μετά να πάμε σε κάθε branch και να κάνουμε pull.&nbsp;</p>
+
+
+
+<p>Pull Request: Ένα μεγάλο κεφάλαιο στο git και εξαιρετικά χρήσιμο, ήδη μεγάλες εταιρείες το χρησιμοποιούν καθημερινά. Ουσιαστικά η λογική είναι ότι θέλουμε να συμβάλουμε στον κώδικα κάποιου άλλου, αλλά πολλές εταιρείες το κάνουν έτσι ώστε να περναέι από τους Senior Developers έτσι ώστε να παίρνει έγκριση για το τελικό push. Σε αυτή τη περίπτωση, πάμε στο repository που θέλουμε να πειράξουμε, πατάμε fork, το βάζουμε σε εμάς, και θα αφήσουμε το github να φτιάξει το repository που ανήκει σε εμάς. Το κατεβάζουμε στο πισι μας, κάνουμε clone with ssh, copy και paste στο τερμιναλ ( σε διαφορετικο φακελο ). Τον ανοίγουμε, μπαίνουμε και απο το terminal, κάνουμε μία αλλαγή&nbsp; και ας το κάνουμε commit. Θα δούμε ότι πρέπει να κάνουμε το config που λέγαμε προηγουμένως με το email και το username. Τώρα θα γίνει κανονικά το κομιτ, και θα κάνουμε και πους. Δεν βάζουμε ρεμοτε εφόσον κάνουμε clone απευθείας από πάνω. Πηγαίνουμε τώρα στο πρώτο ρεποσιτορυ, οχι δλδ στο δικο μας, και πάμε στα pull requests. New pull request, compare across forks, και επιλεγουμε το repository μας, φαίνεται η αλλαγή, και πατάμε pull request. Τώρα εδώ, πρέπει να γράψουμε διάφορα πράγματα. Γιατί κάναμε τις αλλαγές, τι ακριβώς λύνει αυτό που φτιάξαμε κτλ. Τώρα, θα πάει ο μαιντεινερ, θα δει ότι κάποιος έχει ενα πουλ ρικουεστ, και θα πει αν εγω θελω να το περασω στον κωδικα η οχι. Εμεις θα κάνουμε merge και οι αλλαγες περαστήκανε. Αν παμε τωρα στον κώδικα, θα δούμε ότι έχει μπει κανονικά η αλλαγή μας.&nbsp;</p>
+
+
+
+<p>Αρκετά όμως με το terminal, κουραστήκαμε. Έχουμε 2022 και υπάρχουν εφαρμογές που κάνουν τα πράγματα πιο ωραία, κατά τη γνώμη μου, και πιο έυκολα για τον καθημερινό χρήστη, χωρίς να χρειάζεται να πατάει καμία εντολή. 2 εφαρμογές που καλύπτουν γραφικά το περιβάλλον του git είναι το Github Desktop, που είναι η εφαρμογή του Github και λειτουργεί κυρίως σε Windows συστήματα, αλλά και το πιο ωραίο, κατά τη γνώμη μου, Gitkraken, που υπάρχει σε όλα τα συστήματα. Μπορείτε να το κατεβάσετε από το GitKraken.com.&nbsp;</p>
+
+
+
+<p>Θα δούμε λοιπόν σε εικόνα το user interface του για να μην χαθούμε. Στο αριστερό πάνελ θα βρούμε το gitflow, local, remote, stashes, pull requests, issues, tags, submodules και github actions. Πάνω, μπορούμε να βρούμε τα φίλτρα για το left panel, Repository/Branch Navigation, Open/Clone/Init, Tab, New Tab, το Toolbar στη μέση. Δεξιά θα δούμε τη λίστα με τα Tabs, notifications, preferences, settings για λογαριασμό. Δεξιά, υπάρχει το commit search, command palette και το Commit Panel, stage/unstage changes, view commit details, resolve conflicts και view files.&nbsp;</p>
+
+
+
+<p>Command Palette: Χρησιμοποιήστε το &#8220;Command/Control P&#8221; για να αλλάξετε το Command Palette: μια εισαγωγή κειμένου όπου μπορείτε να πληκτρολογήσετε εντολές για να ανοίξετε repositories, να προβάλετε το ιστορικό των αρχείων στον τρέχοντα χώρο αποθήκευσης και πολλά άλλα.</p>
+
+
+
+<p>Μπορείτε επίσης να εκτελέσετε ενέργειες στο τρέχον αποθετήριο σας. Για παράδειγμα, μπορείτε να ανακτήσετε όλα, να δημιουργήσετε ή να εμφανίσετε μια αποθήκευση, να αναιρέσετε ή να επαναλάβετε ενέργειες κ.λπ. από την Παλέτα εντολών. Καθώς πληκτρολογείτε, οι σχετικές εντολές θα εμφανίζονται σε μια λίστα. Αυτό σας επιτρέπει να εκτελέσετε πολλές ενέργειες χωρίς να χρειαστεί ποτέ να αφήσετε την άνεση του πληκτρολογίου σας.</p>
+
+
+
+<p>Για παράδειγμα, εάν θέλετε να ανοίξετε μια καρτέλα GitKraken Terminal, πληκτρολογήστε: &#8220;terminal&#8221; και επιλέξτε είτε &#8220;Open this repo in a Terminal tab&#8221; είτε &#8220;Open a new Terminal Tab&#8221; από τις επιλογές που εμφανίζονται.</p>
+
+
+
+<p>Λειτουργία σε άλλα branches</p>
+
+
+
+<p>Μία από τις πιο λεπτές δυνατότητες του GitKraken Client είναι η δυνατότητα αλληλεπίδρασης με branches (και tags) διαφορετικούς από αυτόν που ελέγχεται αυτήν τη στιγμή. Μπορείτε να φέρετε, να τραβήξετε και να σπρώξετε ένα branch ενώ βρίσκεστε σε διαφορετικό branch, υπό την προϋπόθεση ότι δεν υπάρχουν merge conflicts.</p>
+
+
+
+<p>Για παράδειγμα, εάν έχετε ελέγξει τον branch &#8220;development&#8221;, μπορείτε να κάνετε δεξί κλικ στον κλάδο &#8220;feature/123&#8221; και να τον σπρώξετε ανεξάρτητα. Μπορείτε να αποθηκεύσετε τα πρόσθετα βήματα της αποθήκευσης, του ελέγχου αυτού του κλάδου, της ώθησης, του ελέγχου του προηγούμενου υποκαταστήματος ξανά και της απόρριψης της αποθήκευσης.</p>
+
+
+
+<p>Αναίρεση και Επανάληψη</p>
+
+
+
+<p>Η μη αυτόματη αναίρεση λειτουργιών Git είναι περίπλοκη και φαίνεται σχεδόν αδύνατη σε ορισμένες περιπτώσεις. Με το GitKraken Client είναι εύκολο: απλώς κάντε κλικ στα κουμπιά «Αναίρεση» ή «Επανάληψη» στη γραμμή εργαλείων ή χρησιμοποιώντας την Παλέτα εντολών.</p>
+
+
+
+<p>Αναίρεση: Ο client GitKraken μπορεί να αναιρέσει την checkout, να δεσμεύσει, να απορρίψει, να διαγράψει ένα branch , να αφαιρέσει ένα remote ή να επαναφέρει έναν branch σε commit με ένα μόνο κλικ του κουμπιού «Αναίρεση» (ή, μπορείτε να το κάνετε μέσω της Παλέτας εντολών).</p>
+
+
+
+<p>Redo: Έκανες κάτι και μετά το αναίρεσες, μόνο και μόνο για να ευχηθείς να το είχες αφήσει μόνο του; Υπάρχει μια λειτουργία &#8220;Redo&#8221; για αυτό!</p>
+
+
+
+<p>Pull Requests</p>
+
+
+
+<p>Με την ενσωμάτωση του GitKraken Client με το GitHub, μπορείτε να δημιουργήσετε, να προβάλετε, ακόμη και να κλείσετε και να συγχωνεύσετε PR χωρίς να αφήσετε τα αγαπημένα πλοκάμια του GitKraken.</p>
+
+
+
+<p>Εάν χρησιμοποιείτε τις ενσωματώσεις GitLab ή GitHub, μπορείτε επίσης να προσθέσετε&nbsp; pull request assignee και label στο PR. Στη συνέχεια, το GitKraken Client θα μεταβιβάσει αυτές τις αλλαγές στο GitLab ή στο GitHub όταν δημιουργηθεί το PR.</p>
+
+
+
+<p>Επιπλέον, για την ενσωμάτωση του GitLab, μπορείτε να τοποθετήσετε το δείκτη του ποντικιού πάνω από ένα υπάρχον PR για να εμφανίσετε τυχόν assignes ή labels που σχετίζονται με το αίτημα έλξης. Και για το GitHub, αυτή η επεξήγηση εργαλείου θα εμφανίζει&nbsp; τους assignees, τα labels, τους reviewers, και το build status.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://georgeapos.github.io/2016/04/15/torquent-per-conubia-nostra/feed/</wfw:commentRss>
-			<slash:comments>3</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Interdum magna augue eget</title>
-		<link>https://georgeapos.github.io/2016/04/15/interdum-magna-augue-eget/</link>
-					<comments>https://georgeapos.github.io/2016/04/15/interdum-magna-augue-eget/#comments</comments>
-		
-		<dc:creator><![CDATA[geoapos]]></dc:creator>
-		<pubDate>Fri, 15 Apr 2016 21:23:37 +0000</pubDate>
-				<category><![CDATA[Miscellaneous]]></category>
-		<guid isPermaLink="false">https://oceanwp.org/travel/metus-vitae-pharetra-auctor-copy/</guid>
-
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
-<p>Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh.</p>
-<p>Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam, a cursus ipsum ante quis turpis. Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet. Vestibulum sapien. Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus. Integer euismod lacus luctus magna.</p>
-<h3>Vestibulum lacinia arcu</h3>
-<p>Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum. Morbi in ipsum sit amet pede facilisis laoreet. Donec lacus nunc, viverra nec, blandit vel, egestas et, augue. Vestibulum tincidunt malesuada tellus. Ut ultrices ultrices enim. Curabitur sit amet mauris. Morbi in dui quis est pulvinar ullamcorper. Nulla facilisi.</p>
-<blockquote><p>Integer lacinia sollicitudin massa. Cras metus. Sed aliquet risus a tortor. Integer id quam. Morbi mi. Quisque nisl felis, venenatis tristique, dignissim in, ultrices sit amet, augue. Proin sodales libero eget ante.</p></blockquote>
-<p>Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://georgeapos.github.io/2016/04/15/interdum-magna-augue-eget/feed/</wfw:commentRss>
-			<slash:comments>4</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Metus vitae pharetra auctor</title>
-		<link>https://georgeapos.github.io/2016/04/15/metus-vitae-pharetra-auctor/</link>
-					<comments>https://georgeapos.github.io/2016/04/15/metus-vitae-pharetra-auctor/#respond</comments>
-		
-		<dc:creator><![CDATA[geoapos]]></dc:creator>
-		<pubDate>Fri, 15 Apr 2016 21:20:52 +0000</pubDate>
-				<category><![CDATA[Travel Tips]]></category>
-		<guid isPermaLink="false">https://oceanwp.org/travel/2016/04/15/litora-torqent-per-conubia-copy-2/</guid>
-
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
-<p>Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh.</p>
-<p>Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam, a cursus ipsum ante quis turpis. Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet. Vestibulum sapien. Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus. Integer euismod lacus luctus magna.</p>
-<h3>Vestibulum lacinia arcu</h3>
-<p>Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum. Morbi in ipsum sit amet pede facilisis laoreet. Donec lacus nunc, viverra nec, blandit vel, egestas et, augue. Vestibulum tincidunt malesuada tellus. Ut ultrices ultrices enim. Curabitur sit amet mauris. Morbi in dui quis est pulvinar ullamcorper. Nulla facilisi.</p>
-<blockquote><p>Integer lacinia sollicitudin massa. Cras metus. Sed aliquet risus a tortor. Integer id quam. Morbi mi. Quisque nisl felis, venenatis tristique, dignissim in, ultrices sit amet, augue. Proin sodales libero eget ante.</p></blockquote>
-<p>Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://georgeapos.github.io/2016/04/15/metus-vitae-pharetra-auctor/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Praesent libro se cursus ante</title>
-		<link>https://georgeapos.github.io/2016/04/15/praesent-libro-se-cursus-ante/</link>
-					<comments>https://georgeapos.github.io/2016/04/15/praesent-libro-se-cursus-ante/#comments</comments>
-		
-		<dc:creator><![CDATA[geoapos]]></dc:creator>
-		<pubDate>Fri, 15 Apr 2016 21:20:49 +0000</pubDate>
-				<category><![CDATA[Miscellaneous]]></category>
-		<guid isPermaLink="false">https://oceanwp.org/travel/2016/04/15/litora-torqent-per-conubia-copy/</guid>
-
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
-<p>Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh.</p>
-<p>Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam, a cursus ipsum ante quis turpis. Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet. Vestibulum sapien. Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus. Integer euismod lacus luctus magna.</p>
-<h3>Vestibulum lacinia arcu</h3>
-<p>Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum. Morbi in ipsum sit amet pede facilisis laoreet. Donec lacus nunc, viverra nec, blandit vel, egestas et, augue. Vestibulum tincidunt malesuada tellus. Ut ultrices ultrices enim. Curabitur sit amet mauris. Morbi in dui quis est pulvinar ullamcorper. Nulla facilisi.</p>
-<blockquote><p>Integer lacinia sollicitudin massa. Cras metus. Sed aliquet risus a tortor. Integer id quam. Morbi mi. Quisque nisl felis, venenatis tristique, dignissim in, ultrices sit amet, augue. Proin sodales libero eget ante.</p></blockquote>
-<p>Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://georgeapos.github.io/2016/04/15/praesent-libro-se-cursus-ante/feed/</wfw:commentRss>
-			<slash:comments>3</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Litora torqent per conubia</title>
-		<link>https://georgeapos.github.io/2016/04/15/litora-torqent-per-conubia/</link>
-					<comments>https://georgeapos.github.io/2016/04/15/litora-torqent-per-conubia/#respond</comments>
-		
-		<dc:creator><![CDATA[geoapos]]></dc:creator>
-		<pubDate>Fri, 15 Apr 2016 21:18:22 +0000</pubDate>
-				<category><![CDATA[Adventure]]></category>
-		<guid isPermaLink="false">https://oceanwp.org/travel/2016/04/15/neque-adipiscing-an-cursus-copy/</guid>
-
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
-<p>Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh.</p>
-<p>Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam, a cursus ipsum ante quis turpis. Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet. Vestibulum sapien. Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus. Integer euismod lacus luctus magna.</p>
-<h3>Vestibulum lacinia arcu</h3>
-<p>Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum. Morbi in ipsum sit amet pede facilisis laoreet. Donec lacus nunc, viverra nec, blandit vel, egestas et, augue. Vestibulum tincidunt malesuada tellus. Ut ultrices ultrices enim. Curabitur sit amet mauris. Morbi in dui quis est pulvinar ullamcorper. Nulla facilisi.</p>
-<blockquote><p>Integer lacinia sollicitudin massa. Cras metus. Sed aliquet risus a tortor. Integer id quam. Morbi mi. Quisque nisl felis, venenatis tristique, dignissim in, ultrices sit amet, augue. Proin sodales libero eget ante.</p></blockquote>
-<p>Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://georgeapos.github.io/2016/04/15/litora-torqent-per-conubia/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Neque adipiscing an cursus</title>
-		<link>https://georgeapos.github.io/2016/04/15/neque-adipiscing-an-cursus/</link>
-					<comments>https://georgeapos.github.io/2016/04/15/neque-adipiscing-an-cursus/#respond</comments>
-		
-		<dc:creator><![CDATA[geoapos]]></dc:creator>
-		<pubDate>Fri, 15 Apr 2016 21:10:34 +0000</pubDate>
-				<category><![CDATA[Travel Tips]]></category>
-		<guid isPermaLink="false">https://oceanwp.org/travel/2016/04/15/vestibulum-sapin-prin-quam-copy/</guid>
-
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
-<p>Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh.</p>
-<p>Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam, a cursus ipsum ante quis turpis. Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet. Vestibulum sapien. Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus. Integer euismod lacus luctus magna.</p>
-<h3>Vestibulum lacinia arcu</h3>
-<p>Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum. Morbi in ipsum sit amet pede facilisis laoreet. Donec lacus nunc, viverra nec, blandit vel, egestas et, augue. Vestibulum tincidunt malesuada tellus. Ut ultrices ultrices enim. Curabitur sit amet mauris. Morbi in dui quis est pulvinar ullamcorper. Nulla facilisi.</p>
-<blockquote><p>Integer lacinia sollicitudin massa. Cras metus. Sed aliquet risus a tortor. Integer id quam. Morbi mi. Quisque nisl felis, venenatis tristique, dignissim in, ultrices sit amet, augue. Proin sodales libero eget ante.</p></blockquote>
-<p>Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://georgeapos.github.io/2016/04/15/neque-adipiscing-an-cursus/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Vestibulum sapin prin quam</title>
-		<link>https://georgeapos.github.io/2016/04/15/vestibulum-sapin-prin-quam/</link>
-					<comments>https://georgeapos.github.io/2016/04/15/vestibulum-sapin-prin-quam/#respond</comments>
-		
-		<dc:creator><![CDATA[geoapos]]></dc:creator>
-		<pubDate>Fri, 15 Apr 2016 21:09:40 +0000</pubDate>
-				<category><![CDATA[Travel Tips]]></category>
-		<guid isPermaLink="false">https://oceanwp.org/travel/2016/04/15/duis-sagitis-ipsum-prasent-copy/</guid>
-
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
-<p>Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh.</p>
-<p>Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam, a cursus ipsum ante quis turpis. Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet. Vestibulum sapien. Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus. Integer euismod lacus luctus magna.</p>
-<h3>Vestibulum lacinia arcu</h3>
-<p>Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum. Morbi in ipsum sit amet pede facilisis laoreet. Donec lacus nunc, viverra nec, blandit vel, egestas et, augue. Vestibulum tincidunt malesuada tellus. Ut ultrices ultrices enim. Curabitur sit amet mauris. Morbi in dui quis est pulvinar ullamcorper. Nulla facilisi.</p>
-<blockquote><p>Integer lacinia sollicitudin massa. Cras metus. Sed aliquet risus a tortor. Integer id quam. Morbi mi. Quisque nisl felis, venenatis tristique, dignissim in, ultrices sit amet, augue. Proin sodales libero eget ante.</p></blockquote>
-<p>Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://georgeapos.github.io/2016/04/15/vestibulum-sapin-prin-quam/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Duis sagitis ipsum prasent</title>
-		<link>https://georgeapos.github.io/2016/04/15/duis-sagitis-ipsum-prasent/</link>
-					<comments>https://georgeapos.github.io/2016/04/15/duis-sagitis-ipsum-prasent/#respond</comments>
-		
-		<dc:creator><![CDATA[geoapos]]></dc:creator>
-		<pubDate>Fri, 15 Apr 2016 21:07:47 +0000</pubDate>
-				<category><![CDATA[Adventure]]></category>
-		<guid isPermaLink="false">https://oceanwp.org/travel/2016/04/15/tortor-neque-adpiscing-diam-copy/</guid>
-
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
-<p>Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh.</p>
-<p>Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam, a cursus ipsum ante quis turpis. Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet. Vestibulum sapien. Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus. Integer euismod lacus luctus magna.</p>
-<h3>Vestibulum lacinia arcu</h3>
-<p>Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum. Morbi in ipsum sit amet pede facilisis laoreet. Donec lacus nunc, viverra nec, blandit vel, egestas et, augue. Vestibulum tincidunt malesuada tellus. Ut ultrices ultrices enim. Curabitur sit amet mauris. Morbi in dui quis est pulvinar ullamcorper. Nulla facilisi.</p>
-<blockquote><p>Integer lacinia sollicitudin massa. Cras metus. Sed aliquet risus a tortor. Integer id quam. Morbi mi. Quisque nisl felis, venenatis tristique, dignissim in, ultrices sit amet, augue. Proin sodales libero eget ante.</p></blockquote>
-<p>Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://georgeapos.github.io/2016/04/15/duis-sagitis-ipsum-prasent/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Tortor neque adpiscing diam</title>
-		<link>https://georgeapos.github.io/2016/04/15/tortor-neque-adpiscing-diam/</link>
-					<comments>https://georgeapos.github.io/2016/04/15/tortor-neque-adpiscing-diam/#respond</comments>
-		
-		<dc:creator><![CDATA[geoapos]]></dc:creator>
-		<pubDate>Fri, 15 Apr 2016 21:05:39 +0000</pubDate>
-				<category><![CDATA[Miscellaneous]]></category>
-		<guid isPermaLink="false">https://oceanwp.org/travel/2016/04/15/sociosqu-ad-litora-torquent-copy/</guid>
-
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
-<p>Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh.</p>
-<p>Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam, a cursus ipsum ante quis turpis. Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet. Vestibulum sapien. Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus. Integer euismod lacus luctus magna.</p>
-<h3>Vestibulum lacinia arcu</h3>
-<p>Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum. Morbi in ipsum sit amet pede facilisis laoreet. Donec lacus nunc, viverra nec, blandit vel, egestas et, augue. Vestibulum tincidunt malesuada tellus. Ut ultrices ultrices enim. Curabitur sit amet mauris. Morbi in dui quis est pulvinar ullamcorper. Nulla facilisi.</p>
-<blockquote><p>Integer lacinia sollicitudin massa. Cras metus. Sed aliquet risus a tortor. Integer id quam. Morbi mi. Quisque nisl felis, venenatis tristique, dignissim in, ultrices sit amet, augue. Proin sodales libero eget ante.</p></blockquote>
-<p>Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://georgeapos.github.io/2016/04/15/tortor-neque-adpiscing-diam/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Sociosqu ad litora torquent</title>
-		<link>https://georgeapos.github.io/2016/04/15/sociosqu-ad-litora-torquent/</link>
-					<comments>https://georgeapos.github.io/2016/04/15/sociosqu-ad-litora-torquent/#respond</comments>
-		
-		<dc:creator><![CDATA[geoapos]]></dc:creator>
-		<pubDate>Fri, 15 Apr 2016 21:04:06 +0000</pubDate>
-				<category><![CDATA[Travel Tips]]></category>
-		<guid isPermaLink="false">https://oceanwp.org/travel/2016/04/15/velusce-suscipit-quis-luctus-copy/</guid>
-
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
-<p>Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh.</p>
-<p>Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam, a cursus ipsum ante quis turpis. Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet. Vestibulum sapien. Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus. Integer euismod lacus luctus magna.</p>
-<h3>Vestibulum lacinia arcu</h3>
-<p>Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum. Morbi in ipsum sit amet pede facilisis laoreet. Donec lacus nunc, viverra nec, blandit vel, egestas et, augue. Vestibulum tincidunt malesuada tellus. Ut ultrices ultrices enim. Curabitur sit amet mauris. Morbi in dui quis est pulvinar ullamcorper. Nulla facilisi.</p>
-<blockquote><p>Integer lacinia sollicitudin massa. Cras metus. Sed aliquet risus a tortor. Integer id quam. Morbi mi. Quisque nisl felis, venenatis tristique, dignissim in, ultrices sit amet, augue. Proin sodales libero eget ante.</p></blockquote>
-<p>Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://georgeapos.github.io/2016/04/15/sociosqu-ad-litora-torquent/feed/</wfw:commentRss>
+					<wfw:commentRss>https://georgeapos.github.io/2022/05/10/%cf%83%cf%85%ce%bc%ce%b2%ce%bf%cf%85%ce%bb%ce%ad%cf%82-%ce%b3%ce%b9%ce%b1-%cf%84%ce%bf-git-%cf%80%ce%bf%cf%85-%ce%b8%ce%b1-%ce%ae%ce%b8%ce%b5%ce%bb%ce%b1-%ce%bd%ce%b1-%ce%b3%ce%bd%cf%89%cf%81%ce%af/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

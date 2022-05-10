@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
+
 <channel>
-	<title>
-	Comments for Dot Geek	</title>
-	<atom:link href="https://georgeapos.github.io/comments/feed/" rel="self" type="application/rss+xml" />
+	<title>Lifestyle &#8211; Dot Geek</title>
+	<atom:link href="https://georgeapos.github.io/category/lifestyle/feed/" rel="self" type="application/rss+xml" />
 	<link>https://georgeapos.github.io</link>
 	<description>Aκόμα ένα tech blog</description>
 	<lastBuildDate>Tue, 10 May 2022 20:06:14 +0000</lastBuildDate>
+	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
