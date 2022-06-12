@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments for Dot Geek	</title>
-	<atom:link href="https://georgeapos.github.io/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://georgeapos.github.io</link>
+	Comments on: Συμβουλές για το Git που θα ήθελα να γνωρίζω από το πρώτο έτος	</title>
+	<atom:link href="https://georgeapos.github.io/2022/05/10/simvoules-git/feed/" rel="self" type="application/rss+xml" />
+	<link>https://georgeapos.github.io/2022/05/10/simvoules-git/</link>
 	<description>Aκόμα ένα tech blog</description>
 	<lastBuildDate>Sun, 12 Jun 2022 21:21:16 +0000</lastBuildDate>
 	<sy:updatePeriod>

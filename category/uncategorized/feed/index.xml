@@ -12,17 +12,17 @@
 	<atom:link href="https://georgeapos.github.io/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://georgeapos.github.io</link>
 	<description>Aκόμα ένα tech blog</description>
-	<lastBuildDate>Tue, 10 May 2022 20:06:14 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 12 Jun 2022 21:21:16 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<generator>https://wordpress.org/?v=6.0</generator>
 	<item>
 		<title>Συμβουλές για το Git που θα ήθελα να γνωρίζω από το πρώτο έτος</title>
-		<link>https://georgeapos.github.io/2022/05/10/%cf%83%cf%85%ce%bc%ce%b2%ce%bf%cf%85%ce%bb%ce%ad%cf%82-%ce%b3%ce%b9%ce%b1-%cf%84%ce%bf-git-%cf%80%ce%bf%cf%85-%ce%b8%ce%b1-%ce%ae%ce%b8%ce%b5%ce%bb%ce%b1-%ce%bd%ce%b1-%ce%b3%ce%bd%cf%89%cf%81%ce%af/</link>
-					<comments>https://georgeapos.github.io/2022/05/10/%cf%83%cf%85%ce%bc%ce%b2%ce%bf%cf%85%ce%bb%ce%ad%cf%82-%ce%b3%ce%b9%ce%b1-%cf%84%ce%bf-git-%cf%80%ce%bf%cf%85-%ce%b8%ce%b1-%ce%ae%ce%b8%ce%b5%ce%bb%ce%b1-%ce%bd%ce%b1-%ce%b3%ce%bd%cf%89%cf%81%ce%af/#respond</comments>
+		<link>https://georgeapos.github.io/2022/05/10/simvoules-git/</link>
+					<comments>https://georgeapos.github.io/2022/05/10/simvoules-git/#respond</comments>
 		
 		<dc:creator><![CDATA[geoapos]]></dc:creator>
 		<pubDate>Tue, 10 May 2022 20:02:31 +0000</pubDate>
@@ -146,7 +146,7 @@
 <p>Επιπλέον, για την ενσωμάτωση του GitLab, μπορείτε να τοποθετήσετε το δείκτη του ποντικιού πάνω από ένα υπάρχον PR για να εμφανίσετε τυχόν assignes ή labels που σχετίζονται με το αίτημα έλξης. Και για το GitHub, αυτή η επεξήγηση εργαλείου θα εμφανίζει&nbsp; τους assignees, τα labels, τους reviewers, και το build status.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://georgeapos.github.io/2022/05/10/%cf%83%cf%85%ce%bc%ce%b2%ce%bf%cf%85%ce%bb%ce%ad%cf%82-%ce%b3%ce%b9%ce%b1-%cf%84%ce%bf-git-%cf%80%ce%bf%cf%85-%ce%b8%ce%b1-%ce%ae%ce%b8%ce%b5%ce%bb%ce%b1-%ce%bd%ce%b1-%ce%b3%ce%bd%cf%89%cf%81%ce%af/feed/</wfw:commentRss>
+					<wfw:commentRss>https://georgeapos.github.io/2022/05/10/simvoules-git/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
