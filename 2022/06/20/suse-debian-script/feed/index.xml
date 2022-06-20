@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comments for Dot Geek	</title>
-	<atom:link href="https://georgeapos.github.io/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://georgeapos.github.io</link>
+	Comments on: Script για εγκατάσταση βασικών προγραμμάτων του τμήματος Εφαρμοσμένης Πληροφορικής σε Debian (Ubuntu) και σε openSUSE	</title>
+	<atom:link href="https://georgeapos.github.io/2022/06/20/suse-debian-script/feed/" rel="self" type="application/rss+xml" />
+	<link>https://georgeapos.github.io/2022/06/20/suse-debian-script/</link>
 	<description>Aκόμα ένα tech blog</description>
-	<lastBuildDate>Mon, 20 Jun 2022 18:02:47 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 19 Jun 2022 21:45:22 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
