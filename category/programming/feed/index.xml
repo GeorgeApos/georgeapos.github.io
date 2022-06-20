@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Programming &#8211; Dot Geek</title>
+	<atom:link href="https://georgeapos.github.io/category/programming/feed/" rel="self" type="application/rss+xml" />
+	<link>https://georgeapos.github.io</link>
+	<description>Aκόμη ένα tech blog</description>
+	<lastBuildDate>Mon, 20 Jun 2022 19:12:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>https://georgeapos.github.io/wp-content/uploads/2022/06/cropped-cropped-383afa6b2f744cd984c9575565b41f1a-32x32.png</url>
+	<title>Programming &#8211; Dot Geek</title>
+	<link>https://georgeapos.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Script για εγκατάσταση βασικών προγραμμάτων του τμήματος Εφαρμοσμένης Πληροφορικής σε Debian (Ubuntu) και σε openSUSE</title>
+		<link>https://georgeapos.github.io/2022/06/20/suse-debian-script/</link>
+		
+		<dc:creator><![CDATA[geoapos]]></dc:creator>
+		<pubDate>Sun, 19 Jun 2022 21:44:51 +0000</pubDate>
+				<category><![CDATA[Programming]]></category>
+		<guid isPermaLink="false">https://georgeapos.github.io/?p=481</guid>
+
+					<description><![CDATA[Μέσω αυτού του οδηγού θα γίνει εγκατάσταση όλων των προγραμμάτων που θα χρειαστεί ένας φοιτητής στο τμήμα Εφαρμοσμένης Πληροφορικής του [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="481" class="elementor elementor-481" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-14cd5dc elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="14cd5dc" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-261f15c" data-id="261f15c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c21c19e elementor-widget elementor-widget-text-editor" data-id="c21c19e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><section class="elementor-section elementor-top-section elementor-element elementor-element-93730ef elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="93730ef" data-element_type="section"><div class="elementor-container elementor-column-gap-default"><div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b39c598" data-id="b39c598" data-element_type="column"><div class="elementor-widget-wrap elementor-element-populated"><div class="elementor-element elementor-element-29e7e99 elementor-widget elementor-widget-text-editor" data-id="29e7e99" data-element_type="widget" data-widget_type="text-editor.default"><div class="elementor-widget-container"><p>Μέσω αυτού του οδηγού θα γίνει εγκατάσταση όλων των προγραμμάτων που θα χρειαστεί ένας φοιτητής στο τμήμα Εφαρμοσμένης Πληροφορικής του Πανεπιστημίου Μακεδονίας.</p><p>Αναλύτικά τα προγράμματα που θα χρειαστείτε είναι:</p><ul><li class="task-list-item" data-sourcepos="5:1-5:20">Code::Blocks</li><li class="task-list-item" data-sourcepos="6:1-6:16">SageMath</li><li class="task-list-item" data-sourcepos="8:1-8:11">Dia</li><li class="task-list-item" data-sourcepos="9:1-9:15">DBeaver</li><li class="task-list-item" data-sourcepos="10:1-10:15">Eclipse</li><li class="task-list-item" data-sourcepos="11:1-11:14">VScode</li><li class="task-list-item" data-sourcepos="12:1-12:13">Gephi</li><li class="task-list-item" data-sourcepos="14:1-14:15">Gitkraken</li><li data-sourcepos="14:1-14:15">Blender</li></ul><p>Ξεκινώντας, θα πρέπει να κατεβάσετε τo script για την διανομή σας. Πατήστε πάνω στη διανομή σας:</p><h1><strong><a href="https://gitlab.com/opensourceuom/open-source-uom-distro/-/raw/main/uom_script_debian.sh?inline=false">Ubuntu </a></strong>/ <strong><a href="https://gitlab.com/opensourceuom/open-source-uom-distro/-/raw/main/uom_script_suse_.sh?inline=false">openSUSE</a></strong></h1><p>Στη συνέχεια, στο φάκελο που έχετε κατεβάσει το αρχείο, θα τρέξετε τις παρακάτω εντολές:<br /><strong>(πρώτα για openSUSE και μετά για Debian) </strong></p></div></div></div></div></div></section><section class="elementor-section elementor-top-section elementor-element elementor-element-8df1a42 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8df1a42" data-element_type="section"><div class="elementor-container elementor-column-gap-default"><div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a275e61" data-id="a275e61" data-element_type="column"><div class="elementor-widget-wrap elementor-element-populated"><div class="elementor-element elementor-element-c9484d8 elementor-widget elementor-widget-image" data-id="c9484d8" data-element_type="widget" data-widget_type="image.default"><div class="elementor-widget-container"><img loading="lazy" class="attachment-large size-large" src="https://opensource.uom.gr/wp-content/uploads/2022/06/Screenshot_3-e1654528387914.png" sizes="(max-width: 627px) 100vw, 627px" srcset="https://opensource.uom.gr/wp-content/uploads/2022/06/Screenshot_3-e1654528387914.png 627w, https://opensource.uom.gr/wp-content/uploads/2022/06/Screenshot_3-e1654528387914-300x12.png 300w, https://opensource.uom.gr/wp-content/uploads/2022/06/Screenshot_3-e1654528387914-18x1.png 18w, https://opensource.uom.gr/wp-content/uploads/2022/06/Screenshot_3-e1654528387914-600x25.png 600w" alt="" width="627" height="25" /></div></div><div class="elementor-element elementor-element-8794bb5 elementor-widget elementor-widget-image" data-id="8794bb5" data-element_type="widget" data-widget_type="image.default"><div class="elementor-widget-container"><img loading="lazy" class="attachment-large size-large" src="https://opensource.uom.gr/wp-content/uploads/2022/06/Screenshot_2-e1654528441607.png" sizes="(max-width: 612px) 100vw, 612px" srcset="https://opensource.uom.gr/wp-content/uploads/2022/06/Screenshot_2-e1654528441607.png 612w, https://opensource.uom.gr/wp-content/uploads/2022/06/Screenshot_2-e1654528441607-300x9.png 300w, https://opensource.uom.gr/wp-content/uploads/2022/06/Screenshot_2-e1654528441607-18x1.png 18w, https://opensource.uom.gr/wp-content/uploads/2022/06/Screenshot_2-e1654528441607-600x19.png 600w" alt="" width="612" height="19" /></div></div></div></div></div></section><section class="elementor-section elementor-top-section elementor-element elementor-element-5c4fa9d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5c4fa9d" data-element_type="section"><div class="elementor-container elementor-column-gap-default"><div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-bca5554" data-id="bca5554" data-element_type="column"><div class="elementor-widget-wrap elementor-element-populated"><div class="elementor-element elementor-element-25f1338 elementor-widget elementor-widget-text-editor" data-id="25f1338" data-element_type="widget" data-widget_type="text-editor.default"><div class="elementor-widget-container"><p>Αν θέλετε να εντοπίσετε που βρίσκεται εγκατεστημένο το αρχείο εκτελέστε την εντολή  <strong>find </strong>όπως φαίνεται παρακάτω και στη συνέχεια μεταβείτε στον φάκελο, και τρέξτε κανονικά την εντολή.</p></div></div></div></div></div></section><section class="elementor-section elementor-top-section elementor-element elementor-element-37b31e7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="37b31e7" data-element_type="section"><div class="elementor-container elementor-column-gap-default"><div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-96e7c2b" data-id="96e7c2b" data-element_type="column"><div class="elementor-widget-wrap elementor-element-populated"><div class="elementor-element elementor-element-04ef652 elementor-widget elementor-widget-image" data-id="04ef652" data-element_type="widget" data-widget_type="image.default"><div class="elementor-widget-container"><img loading="lazy" class="attachment-large size-large" src="https://opensource.uom.gr/wp-content/uploads/2022/06/Screenshot_2-1.png" sizes="(max-width: 612px) 100vw, 612px" srcset="https://opensource.uom.gr/wp-content/uploads/2022/06/Screenshot_2-1.png 612w, https://opensource.uom.gr/wp-content/uploads/2022/06/Screenshot_2-1-300x48.png 300w, https://opensource.uom.gr/wp-content/uploads/2022/06/Screenshot_2-1-18x3.png 18w" alt="" width="612" height="97" /></div></div></div></div></div></section><section class="elementor-section elementor-top-section elementor-element elementor-element-24bbe6e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="24bbe6e" data-element_type="section"><div class="elementor-container elementor-column-gap-default"><div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-38d4ddb" data-id="38d4ddb" data-element_type="column"><div class="elementor-widget-wrap elementor-element-populated"><div class="elementor-element elementor-element-f97a336 elementor-widget elementor-widget-text-editor" data-id="f97a336" data-element_type="widget" data-widget_type="text-editor.default"><div class="elementor-widget-container"><p>Ο οδηγός φτιάχτηκε από τον <a href="https://www.linkedin.com/in/prodromos-nasis-223ba420b/">Πρόδρομο Νάση</a> και τον <a>Γιώργο Αποστολίδη.</a></p></div></div></div></div></div></section></div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

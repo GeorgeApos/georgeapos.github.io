@@ -11,8 +11,8 @@
 	<title>Dot Geek</title>
 	<atom:link href="https://georgeapos.github.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://georgeapos.github.io</link>
-	<description>Aκόμα ένα tech blog</description>
-	<lastBuildDate>Sun, 19 Jun 2022 21:45:22 +0000</lastBuildDate>
+	<description>Aκόμη ένα tech blog</description>
+	<lastBuildDate>Mon, 20 Jun 2022 19:12:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -30,14 +30,13 @@
 	<item>
 		<title>Script για εγκατάσταση βασικών προγραμμάτων του τμήματος Εφαρμοσμένης Πληροφορικής σε Debian (Ubuntu) και σε openSUSE</title>
 		<link>https://georgeapos.github.io/2022/06/20/suse-debian-script/</link>
-					<comments>https://georgeapos.github.io/2022/06/20/suse-debian-script/#respond</comments>
 		
 		<dc:creator><![CDATA[geoapos]]></dc:creator>
 		<pubDate>Sun, 19 Jun 2022 21:44:51 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[Programming]]></category>
 		<guid isPermaLink="false">https://georgeapos.github.io/?p=481</guid>
 
-					<description><![CDATA[Μέσω αυτού του οδηγού θα γίνει εγκατάσταση όλων των προγραμμάτων που θα χρειαστεί ένας φοιτητής στο τμήμα Εφαρμοσμένης Πληροφορικής του Πανεπιστημίου Μακεδονίας. Αναλύτικά τα προγράμματα που θα χρειαστείτε είναι: Code::Blocks SageMath Dia DBeaver Eclipse VScode Gephi Gitkraken Blender Ξεκινώντας, θα πρέπει να κατεβάσετε τo script για την διανομή σας. Πατήστε πάνω στη διανομή σας: Ubuntu / openSUSE [&#8230;]]]></description>
+					<description><![CDATA[Μέσω αυτού του οδηγού θα γίνει εγκατάσταση όλων των προγραμμάτων που θα χρειαστεί ένας φοιτητής στο τμήμα Εφαρμοσμένης Πληροφορικής του [&#8230;]]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="481" class="elementor elementor-481" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
 							<section class="elementor-section elementor-top-section elementor-element elementor-element-14cd5dc elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="14cd5dc" data-element_type="section">
@@ -57,8 +56,6 @@
 					</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>https://georgeapos.github.io/2022/06/20/suse-debian-script/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
@@ -72,7 +69,7 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://georgeapos.github.io/?p=448</guid>
 
-					<description><![CDATA[Καλησπέρα, καλώς ήρθατε στο σημερινό πρώτο μάθημα για το Git – Github – Gitlab. Θα κάνουμε μία εισαγωγή στο Git, τι ακριβώς είναι, πως χρησιμοποιείται. Αρχικά θα ασχοληθούμε με το terminal και στη συνέχεια με γραφικά περιβάλλοντα όπως είναι το GitKraken ή το Github Desktop.&#160; Ξεκινώντας, το Git αποτελεί ένα software για να κρατάμε εκδόσεις [&#8230;]]]></description>
+					<description><![CDATA[Καλησπέρα, καλώς ήρθατε στο σημερινό πρώτο μάθημα για το Git – Github – Gitlab. Θα κάνουμε μία εισαγωγή στο Git, [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <p>Καλησπέρα, καλώς ήρθατε στο σημερινό πρώτο μάθημα για το Git – Github – Gitlab. Θα κάνουμε μία εισαγωγή στο Git, τι ακριβώς είναι, πως χρησιμοποιείται. Αρχικά θα ασχοληθούμε με το terminal και στη συνέχεια με γραφικά περιβάλλοντα όπως είναι το GitKraken ή το Github Desktop.&nbsp;</p>
 
